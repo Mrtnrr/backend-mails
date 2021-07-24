@@ -1,0 +1,7 @@
+// ejecutar proyecto 
+npm run dev => correr proyecto con resfresh automatico
+npm run build => compila el proyecto
+npm run clean => elimina dist del proyecto compilado
+npm run start => ejecuta el proyecto ya compilado para servidor
+
+npm i => sirve para instalar las librerias de node_modules
